@@ -12,7 +12,7 @@ const HomePage = () => (
       </div>
       <div className="homepage__textarea">
         <h5>科技部106年度專題計畫研究成果</h5>
-        <h5>計畫編號：MOST 106-2511-S-270-00</h5>
+        <h5>計畫編號：MOST 106-2511-S-270-002</h5>
         <h5>2018年10月</h5>
         <br/>
         <FontAwesomeIcon icon={faUser} size="2x" className="mb-2"/>
